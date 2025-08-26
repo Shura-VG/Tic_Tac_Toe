@@ -27,3 +27,8 @@ Người chơi có thể chơi 2 người trên cùng một máy tính.
 ```bash
 git clone https://github.com/<username>/tictactoe-python.git
 cd tictactoe-python
+
+### **2. Chạy game**
+```bash
+python tictactoe.py
+
