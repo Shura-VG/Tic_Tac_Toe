@@ -23,12 +23,9 @@ Người chơi có thể chơi 2 người trên cùng một máy tính.
 ---
 
 ## ▶ Cách chạy game
-### **1. Clone repo**
+Chạy các lệnh sau trong terminal:
 ```bash
 git clone https://github.com/<username>/tictactoe-python.git
 cd tictactoe-python
-
-### **2. Chạy game**
-```bash
 python tictactoe.py
 
