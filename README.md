@@ -26,6 +26,6 @@ Người chơi có thể chơi 2 người trên cùng một máy tính.
 Chạy các lệnh sau trong terminal:
 ```bash
 git clone https://github.com/Shura-VG/Tic_Tac_Toe
-cd tictactoe-python
+cd TicTacToe
 python tictactoe.py
 
